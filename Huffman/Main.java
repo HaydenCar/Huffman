@@ -5,7 +5,6 @@ import java.awt.event.ActionListener;
 
 public class Main extends JFrame {
 
-    // Recursive GUI Luke Raeside's favourite
     public static void main(String[] args) {
         new Main();
     }
